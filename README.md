@@ -1,5 +1,5 @@
 # Blaster-Prototype
-Files and tutorial for 3d printed blaster with full electronics, inspired by the SIMPLE BLASTER OS project by Chris Carpenter
+Files and tutorial for 3d printed blaster with full electronics, inspired by the SIMPLE BLASTER OS project by Chris Carpenter.
 
 # Project Description
 The blaster prototype is a fonctionnal prop for star wars fans. It include working trigger, sound, light, and displays with ammunition count.
@@ -37,6 +37,7 @@ This project requires little to none IT skills, for i will try to walk you throu
 
 ## Wiring diagram : 
 You can change most of the pins, except for the ones connected to the displays (SDA and SCL), the Vin, 5V, 3V3 and GND.
+If you decide to use a led in place of the laser (for safety reasons, for example), you can wire it the same way, but don't forget to add a resistor.
 ![Wiring](https://user-images.githubusercontent.com/129743177/229611605-f5bdc5fa-e650-42f9-a495-9acd02763e56.PNG)
 
 ## Sd card configuration
@@ -46,7 +47,7 @@ Copy the content of the folder "mp3" on the root of the card. It contains the so
 You can find the code in the Src folder. After the wiring, if you are not certain that your components works fine, you can test them one by one with arduino tutorials before uploading the file BlasterV1_1.ino.
 
 ## 3d printing the blaster
-
+You can find the files [here](https://cults3d.com/en/users/DreamShapr/creations). The files of the upgraded versions will also be available on here.
 
 ## Assembly
 
