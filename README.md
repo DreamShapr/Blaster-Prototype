@@ -30,3 +30,4 @@ This project requires little to none IT skills, for i will try to walk you throu
 - [Laser](https://www.amazon.fr/RUNCCI-YUN-Photor%C3%A9sistance-R%C3%A9sistance-D%C3%A9pendant-Lumi%C3%A8re/dp/B08N1F5YBG/ref=sr_1_2_sspa?adgrpid=1353499750845157&hvadid=84594162209376&hvbmt=be&hvdev=c&hvlocphy=126407&hvnetw=o&hvqmt=e&hvtargid=kwd-84594261404324%3Aloc-66&hydadcr=27708_2269046&keywords=arduino+laser&qid=1680522013&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) or led.
 - 9V battery
 - [9V battery connectors](https://www.amazon.fr/Connecteur-Coupleur-Branchement-Raccordement-Clips/dp/B00JW80Y8O/ref=asc_df_B00JW80Y8O?tag=bingshoppin0f-21&linkCode=df0&hvadid=80608002580871&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584207577903478&psc=1)
+- 3 bolt ( Reminder to me : check dimensions)
