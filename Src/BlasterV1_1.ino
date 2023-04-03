@@ -44,7 +44,7 @@ void setup() {
 void loop() { 
     if(digitalRead(trigger)== HIGH) {
     if (ammo != 0) {
-      mp3_play(5); 
+      mp3_play(1); 
       digitalWrite(laser,HIGH);
       delay(1200);
       ammo = ammo - 1; 
