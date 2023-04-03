@@ -31,6 +31,7 @@ This project requires little to none IT skills, for i will try to walk you throu
 - 9V battery
 - [9V battery connectors](https://www.amazon.fr/Connecteur-Coupleur-Branchement-Raccordement-Clips/dp/B00JW80Y8O/ref=asc_df_B00JW80Y8O?tag=bingshoppin0f-21&linkCode=df0&hvadid=80608002580871&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584207577903478&psc=1)
 - 2 bolts (CHC M4x2)
+- 2 springs (I used pen ones)
 
 
 # Tutorial
