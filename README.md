@@ -31,3 +31,24 @@ This project requires little to none IT skills, for i will try to walk you throu
 - 9V battery
 - [9V battery connectors](https://www.amazon.fr/Connecteur-Coupleur-Branchement-Raccordement-Clips/dp/B00JW80Y8O/ref=asc_df_B00JW80Y8O?tag=bingshoppin0f-21&linkCode=df0&hvadid=80608002580871&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584207577903478&psc=1)
 - 2 bolts (CHC M4x2)
+
+
+# Tutorial
+
+## Wiring diagram : 
+You can change most of the pins, except for the ones connected to the displays (SDA and SCL), the Vin, 5V, 3V3 and GND.
+![Wiring](https://user-images.githubusercontent.com/129743177/229611605-f5bdc5fa-e650-42f9-a495-9acd02763e56.PNG)
+
+## Sd card configuration
+Copy the content of the folder "mp3" on the root of the card. It contains the sound files names in the format (000X.mp3).
+
+## Arduino programming
+You can find the code in the Src folder. After the wiring, if you are not certain that your components works fine, you can test them one by one with arduino tutorials before uploading the file BlasterV1_1.ino.
+
+## 3d printing the blaster
+
+
+## Assembly
+
+
+
