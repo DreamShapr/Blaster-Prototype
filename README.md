@@ -4,6 +4,8 @@ Files and tutorial for 3d printed blaster with full electronics, inspired by the
 # Project Description
 The blaster prototype is a fonctionnal prop for star wars fans. It include working trigger, sound, light, and displays with ammunition count.
 
+https://user-images.githubusercontent.com/129743177/229620723-651f90f1-1ffc-48f9-aafe-6b2c0ab22113.mp4
+
 # Project Warning 
 Please keep in mind that this project is a prototype, and has some limitations. For example, the display are not independant as I intended them to be (still, because of color and format change, it is also cool), and the mp3 player drives too much power when added to other components like the displays, and it may crash the program with some sound files (logically not the ones included here, as i had tested them).
 Also, even if it is not a problem, i found my protoype to be a little large.
