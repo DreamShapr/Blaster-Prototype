@@ -54,7 +54,16 @@ You can find the files [here](https://cults3d.com/en/users/DreamShapr/creations)
 
 ## Assembly
 ![image](https://user-images.githubusercontent.com/129743177/229726136-8372d5de-3b97-41a5-a612-53b8617c9bd9.png)
-![image](https://user-images.githubusercontent.com/129743177/229728396-96cde61c-2e96-4fb3-b735-d9a8435f3f1f.png)
 
+The barel is designed to host the speaker, so it is better you use the same dimensions as the one i used. The sound board can also be placed inside, to the whole sound system is in one place and you don't need too much cables length. The laser or most diodes should fit in the emmiter hole in the barrel, and none of this components should require a fixation system.
+
+The limit switch must be glued into the handle part, but assure yourself that the trigger realy come in contact with the switch when pulled before gluing.
+
+The arduino should be held in place by the cables.
+
+The rear display should fit just fine into the model and will not move, but the side one probably will require a fixation system.
+
+![image](https://user-images.githubusercontent.com/129743177/229728396-96cde61c-2e96-4fb3-b735-d9a8435f3f1f.png)
+The reload witch will be held in place with the nut on the outside part, and the on/off switch must be forced into the hole to ensure it don't move.
 
 
