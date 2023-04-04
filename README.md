@@ -50,9 +50,11 @@ Copy the content of the folder "mp3" on the root of the card. It contains the so
 You can find the code in the Src folder. After the wiring, if you are not certain that your components works fine, you can test them one by one with arduino tutorials before uploading the file BlasterV1_1.ino.
 
 ## 3d printing the blaster
-You can find the files [here](https://cults3d.com/en/users/DreamShapr/creations). The files of the upgraded versions will also be available on here.
+You can find the files [here](https://cults3d.com/en/users/DreamShapr/creations), under the name WESTAR 35 MANDALORIAN BLASTER WITH ELECTRONICS - PROTOTYPE. The files of the upgraded versions will also be available on here.
 
 ## Assembly
+![image](https://user-images.githubusercontent.com/129743177/229726136-8372d5de-3b97-41a5-a612-53b8617c9bd9.png)
+![image](https://user-images.githubusercontent.com/129743177/229728396-96cde61c-2e96-4fb3-b735-d9a8435f3f1f.png)
 
 
 
