@@ -16,7 +16,8 @@ A V2 version is available [Here !](https://cults3d.com/en/3d-model/various/westa
 It has only the side display, to reduce the size, and an improved assembly. All the components and program are the same as the prototype, just ignore any mentions of the 128x64 Oled display.
 
 # V3
-A V3 version is available [Here !](
+A V3 version is available [Here !](https://cults3d.com/en/3d-model/various/westar-35-mandalorian-blaster-with-electronics-v3)
+And [here](https://github.com/DreamShapr/Blaster-V3) is his repository.
 
 # Project Requirements
 This project requires little to none IT skills, for i will try to walk you through the build, but it will require some hardware :
