@@ -9,9 +9,14 @@ https://user-images.githubusercontent.com/129743177/229620723-651f90f1-1ffc-48f9
 # Project Warning 
 Please keep in mind that this project is a prototype, and has some limitations. For example, the displays are not independent as I intended them to be (still, because of color and format change, it is also cool), and the mp3 player drives too much current when added to other components like the displays, and it may crash the program with some sound files (logically not the ones included here, as i had tested them).
 Also, even if it is not really a problem, i found my protoype to be a little large.
-I will works on a V2 version, with only one display (side) to reduce the size), and a V3 without display to get the full potential of the sound board.
-I will also works on a rifle with much more functionnality (like independant displays, stun mode, etc...) for i will no longer be limited by the capacyty of the gun to hold components).
-You are welcome to check for any updates here ! :) 
+I will in the future works on a rifle with much more functionnality (like independant displays, stun mode, etc...) for i will no longer be limited by the capacity of the gun to hold components), so stay in touch !
+
+# V2
+A V2 version is available [Here !](https://cults3d.com/en/3d-model/various/westar-35-mandalorian-blaster-with-electronics-v2). 
+It has only the side display, to reduce the size, and an improved assembly. All the components and program are the same as the prototype, just ignore any mentions of the 128x64 Oled display.
+
+# V3
+A V3 version is available [Here !](
 
 # Project Requirements
 This project requires little to none IT skills, for i will try to walk you through the build, but it will require some hardware :
