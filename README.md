@@ -16,7 +16,7 @@ A V2 version is available [Here !](https://cults3d.com/en/3d-model/various/westa
 It has only the side display, to reduce the size, and an improved assembly. All the components and program are the same as the prototype, just ignore any mentions of the 128x64 Oled display.
 
 # V3
-A V3 version is available [Here !](https://cults3d.com/en/3d-model/various/westar-35-mandalorian-blaster-with-electronics-v3). Without display, unleash the full potential of the sound board ! It also a rechargeable power source ! 
+A V3 version is available [Here !](https://cults3d.com/en/3d-model/various/westar-35-mandalorian-blaster-with-electronics-v3). Without display, unleash the full potential of the sound board ! It also has a rechargeable power source ! 
 And [here](https://github.com/DreamShapr/Blaster-V3) is his repository.
 
 # Project Requirements
