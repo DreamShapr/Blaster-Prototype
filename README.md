@@ -7,8 +7,8 @@ The blaster prototype is a fonctionnal prop for star wars fans. It include worki
 https://user-images.githubusercontent.com/129743177/229620723-651f90f1-1ffc-48f9-aafe-6b2c0ab22113.mp4
 
 # Project Warning 
-Please keep in mind that this project is a prototype, and has some limitations. For example, the display are not independant as I intended them to be (still, because of color and format change, it is also cool), and the mp3 player drives too much power when added to other components like the displays, and it may crash the program with some sound files (logically not the ones included here, as i had tested them).
-Also, even if it is not a problem, i found my protoype to be a little large.
+Please keep in mind that this project is a prototype, and has some limitations. For example, the displays are not independent as I intended them to be (still, because of color and format change, it is also cool), and the mp3 player drives too much current when added to other components like the displays, and it may crash the program with some sound files (logically not the ones included here, as i had tested them).
+Also, even if it is not really a problem, i found my protoype to be a little large.
 I will works on a V2 version, with only one display (side) to reduce the size), and a V3 without display to get the full potential of the sound board.
 I will also works on a rifle with much more functionnality (like independant displays, stun mode, etc...) for i will no longer be limited by the capacyty of the gun to hold components).
 You are welcome to check for any updates here ! :) 
@@ -33,7 +33,7 @@ This project requires little to none IT skills, for i will try to walk you throu
 - 9V battery
 - [9V battery connectors](https://www.amazon.fr/Connecteur-Coupleur-Branchement-Raccordement-Clips/dp/B00JW80Y8O/ref=asc_df_B00JW80Y8O?tag=bingshoppin0f-21&linkCode=df0&hvadid=80608002580871&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584207577903478&psc=1)
 - 2 bolts (CHC M4x2)
-- 2 springs (I used pen ones)
+(- 2 springs (I used pen ones)) Optionnal. The limit switch sould have enough pressure to push back the trigger.
 
 
 # Tutorial
@@ -55,7 +55,7 @@ You can find the files [here](https://cults3d.com/en/users/DreamShapr/creations)
 ## Assembly
 ![image](https://user-images.githubusercontent.com/129743177/229726136-8372d5de-3b97-41a5-a612-53b8617c9bd9.png)
 
-The barel is designed to host the speaker, so it is better you use the same dimensions as the one i used. The sound board can also be placed inside, so the whole sound system is in one place and you don't need too much cables length. The laser or most diodes should fit in the emmiter hole in the barrel, and none of this components should require a fixation system.
+The barel is designed to host the speaker, so it is better you use the same dimensions as the one i used. The sound board can also be placed inside, so the whole sound system is in one place and you don't need too much cable length. The laser or most diodes should fit in the emmiter hole in the barrel, and none of these components should require a fixation system.
 
 The limit switch must be glued into the handle part, but assure yourself that the trigger realy come in contact with the switch when pulled before gluing.
 
@@ -64,6 +64,6 @@ The arduino should be held in place by the cables.
 The rear display should fit just fine into the model and will not move, but the side one probably will require a fixation system.
 
 ![image](https://user-images.githubusercontent.com/129743177/229728396-96cde61c-2e96-4fb3-b735-d9a8435f3f1f.png)
-The reload witch will be held in place with the nut on the outside part, and the on/off switch must be forced into the hole to ensure it don't move.
+The reload switch will be held in place with the nut on the outside part, and the on/off switch must be forced into the hole to ensure it don't move.
 
 
